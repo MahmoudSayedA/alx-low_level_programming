@@ -16,13 +16,4 @@ int add(int, int);
 void print_to_98(int n);
 void print_times_table(int n);
 
-#endif#ifndef MAIN.H
-#define MAIN.H
-
-#include<stdio.h>
-
-int _putchar(char c);
-
-
-
 #endif
