@@ -8,7 +8,7 @@
  */
 char *_strcat(char *dest, char *src)
 {
-	char t = *dest;
+	char *t = *dest;
 
 	while (*dest)
 		dest++;
